@@ -1,11 +1,8 @@
 # awesome-abp
 
- > A collection of awesomene abp.io resources.
- 
+ > A collection of awesomene abp.io resources. 
  
 ## Contents
-- [awesome-abp](#awesome-abp)
-  - [Contents](#contents)
   - [Introduction](#introduction)
     - [What is abp.io](#what-is-abpio)
     - [Open Source](#open-source)
