@@ -51,7 +51,7 @@ Get invloved with abp.io. Join the discussion at wechat.
 
 
 ## Contributions 
-Contributions from the community are always welcome! Please take a look at the [contribution guidelines](https://github.com/geffzhang/awesome-abp/blob/master/CONTRIBUTING.md) pages first. Thanks to all [contributors](https://github.com/geffzhang/awesome-abp/graphs/contributors), you're awesome and wouldn't be possible without you!
+Contributions from the community are always welcome! Please take a look at the [contribution guidelines](https://github.com/EasyAbp/awesome-abp/blob/master/CONTRIBUTING.md) pages first. Thanks to all [contributors](https://github.com/EasyAbp/awesome-abp/graphs/contributors), you're awesome and wouldn't be possible without you!
 
 ## Questions
 Feel free to open a new issue if you have any questions regarding abp.io.
