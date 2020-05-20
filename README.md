@@ -34,6 +34,7 @@ Get invloved with abp.io. Join the discussion at wechat.
 ## Articles
 
 * [Introducing the ABP vNext](https://blog.abp.io/abp/Abp-vNext-Announcement) - Introducing the ABP vNext.
+* [meowv blog](https://github.com/Meowv/Blog) -基于 abp vNext 和 .NET Core 开发博客项目 - 微信项目实战专辑
 
 
 ## Videos
