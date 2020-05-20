@@ -46,6 +46,9 @@ Get invloved with abp.io. Join the discussion at wechat.
 
 ## Sample Projects
 * [Acme Help Desk Tutorial](https://github.com/seanalford/ABP-HelpDesk) - How to build a Help Desk application using ABP.io Suite 
+* [abp.vnext.wide.world.importers](https://github.com/wjkhappy14/abp.vnext.wide.world.importers) - ABP VNEXT for MS SqlServer2016 Demo DB WideWorldImporters
+* [J3Space.Jarvis](https://github.com/taujiong/J3Space.Jarvis) - 基于Abp Vnext的个人管理系统 
+* [SoMall](https://github.com/jerrytang67/SoMall)- 社交电商商城开源项目
 
 ## Tools
 * [AbpHelper.GUI](https://github.com/EasyAbp/AbpHelper.GUI). - AbpHelper is a tool that help you with developing Abp vNext applications.
