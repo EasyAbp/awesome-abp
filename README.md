@@ -11,6 +11,7 @@
   - [Videos](#videos)
   - [Modules](#modules)
   - [Themes](#themes)
+  - [Sample Projects](#Sample-Projects)
   - [Tools](#tools)
   - [Podcasts](#podcasts)
   - [Contributions](#contributions)
@@ -42,6 +43,9 @@ Get invloved with abp.io. Join the discussion at wechat.
 ## Themes
 * [Lsw.Abp.AspNetCore.Mvc.UI.Theme.Stisla](https://github.com/liangshiw/Lsw.Abp.AspNetCore.Mvc.UI.Theme.Stisla).- It uses bootstrap, so it is compatible with abp tag helper
 * [Abp.AspNetCore.Mvc.UI.Theme.AdminLTE](https://github.com/wakuflair/Abp.AspNetCore.Mvc.UI.Theme.AdminLTE) - An ABP theme module based on AdminLTE 
+
+## Sample Projects
+* [Acme Help Desk Tutorial](https://github.com/seanalford/ABP-HelpDesk) - How to build a Help Desk application using ABP.io Suite 
 
 ## Tools
 * [AbpHelper.GUI](https://github.com/EasyAbp/AbpHelper.GUI). - AbpHelper is a tool that help you with developing Abp vNext applications.
