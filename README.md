@@ -58,6 +58,7 @@ Abp.VNext.Hello 数据库使用的是SQLite 拉取代码，然后就可以跑起
 * [J3Space.Jarvis](https://github.com/taujiong/J3Space.Jarvis) - 基于Abp Vnext的个人管理系统 
 * [SoMall](https://github.com/jerrytang67/SoMall)- 社交电商商城开源项目
 * [abp-vnext-sqlite](https://github.com/weidongnian/abp-vnext-sqlite) -- 基于sqlite的abp vnext的dotnet core 3.1 程序，不用安装数据库，就可以运行
+* [ABP-MicroService](https://github.com/WilliamXu96/ABP-MicroService) -- 一个基于ABP vNext微服务架构、vue-element-admin的后台管理系统，适用于大型分布式业务系统、企业后台等
 
 ## Tools
 * [AbpHelper.GUI](https://github.com/EasyAbp/AbpHelper.GUI). - AbpHelper is a tool that help you with developing Abp vNext applications.
