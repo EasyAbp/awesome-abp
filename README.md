@@ -43,7 +43,7 @@ Get invloved with abp.io. Join the discussion at wechat.
 
 ## Modules
 * [Blogging](https://github.com/abpframework/abp/tree/dev/modules/blogging).- Used to create fancy blogs. ABP's own blog already using this module
-* [GeneralTree For Abp vNext](https://github.com/maliming/Owl.GeneralTree)
+* [GeneralTree For Abp vNext](https://github.com/maliming/Owl.GeneralTree) -- Abp GeneralTree for vNext
 
 
 ## Themes
