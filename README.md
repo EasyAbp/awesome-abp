@@ -26,7 +26,7 @@ abp.io is a modular application framework built on top of .net core. More inform
 abp.io is an open source project with its source code hosted on [Github](https://github.com/abpframework/abp).
 
 ### EasyAbp
-An open source organization to enhance your ABP project development efficiency, More information on the [EasyAbpGuide](https://github.com/EasyAbp/EasyAbpGuide)
+An open source organization to enhance your ABP project development efficiency, More information on the [EasyAbpGuide](https://github.com/EasyAbp/EasyAbpGuide)-- Abp GeneralTree
 
 ### Community
 Get invloved with abp.io. Join the discussion at wechat.
@@ -43,6 +43,7 @@ Get invloved with abp.io. Join the discussion at wechat.
 
 ## Modules
 * [Blogging](https://github.com/abpframework/abp/tree/dev/modules/blogging).- Used to create fancy blogs. ABP's own blog already using this module
+* [GeneralTree For Abp vNext](https://github.com/maliming/Owl.GeneralTree)
 
 
 ## Themes
@@ -56,6 +57,7 @@ Get invloved with abp.io. Join the discussion at wechat.
 Abp.VNext.Hello 数据库使用的是SQLite 拉取代码，然后就可以跑起来
 * [J3Space.Jarvis](https://github.com/taujiong/J3Space.Jarvis) - 基于Abp Vnext的个人管理系统 
 * [SoMall](https://github.com/jerrytang67/SoMall)- 社交电商商城开源项目
+* [abp-vnext-sqlite](https://github.com/weidongnian/abp-vnext-sqlite) -- 基于sqlite的abp vnext的dotnet core 3.1 程序，不用安装数据库，就可以运行
 
 ## Tools
 * [AbpHelper.GUI](https://github.com/EasyAbp/AbpHelper.GUI). - AbpHelper is a tool that help you with developing Abp vNext applications.
