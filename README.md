@@ -44,6 +44,7 @@ Get invloved with abp.io. Join the discussion at wechat.
 ## Modules
 * [Blogging](https://github.com/abpframework/abp/tree/dev/modules/blogging).- Used to create fancy blogs. ABP's own blog already using this module
 * [GeneralTree For Abp vNext](https://github.com/maliming/Owl.GeneralTree) -- Abp GeneralTree for vNext
+* [sharp-abp](https://github.com/cocosip/sharp-abp) -- Abp-vNext extension modules 
 
 
 ## Themes
@@ -60,6 +61,7 @@ Abp.VNext.Hello 数据库使用的是SQLite 拉取代码，然后就可以跑起
 * [abp-vnext-sqlite](https://github.com/weidongnian/abp-vnext-sqlite) -- 基于sqlite的abp vnext的dotnet core 3.1 程序，不用安装数据库，就可以运行
 * [ABP-MicroService](https://github.com/WilliamXu96/ABP-MicroService) -- 一个基于ABP vNext微服务架构、vue-element-admin的后台管理系统，适用于大型分布式业务系统、企业后台等
 * [vue admin with abp](https://github.com/colinin/abp-vue-admin-element-typescript) --vue-typescript-admin-template 是一个后台前端解决方案，它基于 vue, typescript 和 element-ui实现
+* [AbpVnextModule](https://github.com/xiaoliang1314/AbpVnextModule) -- AbpVnext模块 设置管理+审计日志 +Saas+组织机构 
 
 ## Tools
 * [AbpHelper.GUI](https://github.com/EasyAbp/AbpHelper.GUI). - AbpHelper is a tool that help you with developing Abp vNext applications.
