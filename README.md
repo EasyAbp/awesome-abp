@@ -34,11 +34,12 @@ Get invloved with abp.io. Join the discussion at wechat.
 ## Articles
 
 * [Introducing the ABP vNext](https://blog.abp.io/abp/Abp-vNext-Announcement) - Introducing the ABP vNext.
+* [ABP框架v2.0 和 ABP商业版](https://www.cnblogs.com/waku/p/12203210.html) -- ABP商业版,这是建立在开源ABP框架的之上的一套专业的模块,工具,主题和服务
+* [ABP框架 v2.7.0已经发布](https://www.cnblogs.com/waku/p/12851385.html) -- 这篇文章也将涵盖这几个版本 2.4,2.5和2.6 中新增内容和过去的2个月里我们完成了什么.
+* [ABP v2.8.0 Releases & Road Map](https://blog.abp.io/abp/ABP-v2.8.0-Releases-%26-Road-Map) --  what's new with these releases and the middle-term road maps for the projects
 * [meowv blog](https://github.com/Meowv/Blog) -基于 abp vNext 和 .NET Core 开发博客项目 - 微信项目实战专辑
 
-
 ## Videos
-
 
 
 ## Modules
