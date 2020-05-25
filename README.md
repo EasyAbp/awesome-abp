@@ -26,7 +26,7 @@ abp.io is a modular application framework built on top of .net core. More inform
 abp.io is an open source project with its source code hosted on [Github](https://github.com/abpframework/abp).
 
 ### EasyAbp
-An open source organization to enhance your ABP project development efficiency, More information on the [EasyAbpGuide](https://github.com/EasyAbp/EasyAbpGuide)-- Abp GeneralTree
+An open source organization to enhance your ABP project development efficiency, More information on the [EasyAbpGuide](https://github.com/EasyAbp/EasyAbpGuide).
 
 ### Community
 Get invloved with abp.io. Join the discussion at wechat.
