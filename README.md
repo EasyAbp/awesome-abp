@@ -53,6 +53,7 @@ Get invloved with abp.io. Join the discussion at wechat.
 * [Abp.AspNetCore.Mvc.UI.Theme.AdminLTE](https://github.com/wakuflair/Abp.AspNetCore.Mvc.UI.Theme.AdminLTE) - An ABP theme module based on AdminLTE 
 
 ## Sample Projects
+* [abp-samples](https://github.com/abpframework/abp-samples) --Sample solutions built with the ABP Framework  
 * [Acme Help Desk Tutorial](https://github.com/seanalford/ABP-HelpDesk) - How to build a Help Desk application using ABP.io Suite 
 * [abp.vnext.wide.world.importers](https://github.com/wjkhappy14/abp.vnext.wide.world.importers) - ABP VNEXT for MS SqlServer2016 Demo DB WideWorldImporters
 * [Abp.VNext.Hello](https://github.com/wjkhappy14/Abp.VNext.Hello) - 
