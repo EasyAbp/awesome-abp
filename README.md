@@ -40,7 +40,9 @@ Get invloved with abp.io. Join the discussion at wechat.
 * [meowv blog](https://github.com/Meowv/Blog) -基于 abp vNext 和 .NET Core 开发博客项目 - 微信项目实战专辑
 
 ## Videos
-
+* [ABP_vNext_开发实战 01](https://www.bilibili.com/video/BV18f4y1S7Bt) -- ABP_vNext_开发实战系列视频
+* [ABP.VNext.Hello](https://www.bilibili.com/video/BV1j541147Tn?from=search&seid=4316248443868681793) -- ABP.VNext.Hello
+* [ABP-vNext Debug step by step -1](https://www.bilibili.com/video/BV1Fa4y1v7CW?from=search&seid=4316248443868681793)-- abp vnext 源码调试记录整个代码核心执行过程，方便自己加深理解，在开发过程中灵活运用
 
 ## Modules
 * [Blogging](https://github.com/abpframework/abp/tree/dev/modules/blogging).- Used to create fancy blogs. ABP's own blog already using this module
