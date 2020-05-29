@@ -82,7 +82,8 @@ Contributions from the community are always welcome! Please take a look at the [
 ## Questions
 Feel free to open a new issue if you have any questions regarding abp.io.
 
-
+# Stargazers over time
+[![Stargazers over time](https://starcharts.herokuapp.com/abpframework/abp.svg)](https://starcharts.herokuapp.com/abpframework/abp)
 
 
 
