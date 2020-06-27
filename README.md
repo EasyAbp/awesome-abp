@@ -72,8 +72,8 @@ Abp.VNext.Hello 数据库使用的是SQLite 拉取代码，然后就可以跑起
 * [ABP-HelpDesk](https://github.com/seanalford/ABP-HelpDesk) -- How to build a Help Desk application using ABP.io Suite 
 
 ## Tools
-* [AbpHelper.GUI](https://github.com/EasyAbp/AbpHelper.GUI). - AbpHelper is a tool that help you with developing Abp vNext applications.
-* [AbpHelper.CLI](https://github.com/EasyAbp/AbpHelper.CLI)  - AbpHelper is a tool that help you with developing Abp vNext applications.
+* [AbpHelper.GUI](https://github.com/EasyAbp/AbpHelper.GUI). - AbpHelper is a GUI tool that help you with developing Abp vNext applications.
+* [AbpHelper.CLI](https://github.com/EasyAbp/AbpHelper.CLI)  - AbpHelper is a CLI tool that help you with developing Abp vNext applications.
 
 ## Podcasts
 
