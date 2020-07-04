@@ -38,8 +38,9 @@ Get invloved with abp.io. Join the discussion at wechat.
 * [ABP框架 v2.7.0已经发布](https://www.cnblogs.com/waku/p/12851385.html) -- 这篇文章也将涵盖这几个版本 2.4,2.5和2.6 中新增内容和过去的2个月里我们完成了什么.
 * [ABP v2.8.0 Releases & Road Map](https://blog.abp.io/abp/ABP-v2.8.0-Releases-%26-Road-Map) --  what's new with these releases and the middle-term road maps for the projects
 * [ABP框架v2.9已经发布](https://www.cnblogs.com/waku/p/13049761.html) -- ABP框架和ABP商业版2.9已经发布,这是3.0之前的最后一个版本!
+* [ABP框架 v3.0 已发布](https://www.cnblogs.com/waku/p/13226149.html) -- ABP框架和ABP商业版3.0版已经发布.与常规的2周发布一个版本不同的是, 这个版本用了4周的时间.这是一个主要版本,它也包括了一些重大更改
 * [meowv blog](https://github.com/Meowv/Blog) -基于 abp vNext 和 .NET Core 开发博客项目 - 微信项目实战专辑
-
+ 
 ## Videos
 * [ABP_vNext_开发实战 01](https://www.bilibili.com/video/BV18f4y1S7Bt) -- ABP_vNext_开发实战系列视频
 * [ABP.VNext.Hello](https://www.bilibili.com/video/BV1j541147Tn?from=search&seid=4316248443868681793) -- ABP.VNext.Hello
