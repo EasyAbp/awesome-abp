@@ -40,6 +40,8 @@ Get invloved with abp.io. Join the discussion at wechat.
 * [ABP框架v2.9已经发布](https://www.cnblogs.com/waku/p/13049761.html) -- ABP框架和ABP商业版2.9已经发布,这是3.0之前的最后一个版本!
 * [ABP框架 v3.0 已发布](https://www.cnblogs.com/waku/p/13226149.html) -- ABP框架和ABP商业版3.0版已经发布.与常规的2周发布一个版本不同的是, 这个版本用了4周的时间.这是一个主要版本,它也包括了一些重大更改
 * [meowv blog](https://github.com/Meowv/Blog) -基于 abp vNext 和 .NET Core 开发博客项目 - 微信项目实战专辑
+* [在分布式架构中使用ABP, SignalR和RabbitMQ构建实时消息系统](https://volosoft.com/blog/RealTime-Messaging-Distributed-Architecture-Abp-SingalR-RabbitMQ) 
+* [如何在Angular模板中使用Attribute Directives来避免重复](https://volosoft.com/blog/attribute-directives-to-avoid-repetition-in-angular-templates)
  
 ## Videos
 * [ABP_vNext_开发实战 01](https://www.bilibili.com/video/BV18f4y1S7Bt) -- ABP_vNext_开发实战系列视频
