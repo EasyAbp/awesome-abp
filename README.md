@@ -52,6 +52,7 @@ Get invloved with abp.io. Join the discussion at wechat.
 * [Blogging](https://github.com/abpframework/abp/tree/dev/modules/blogging).- Used to create fancy blogs. ABP's own blog already using this module
 * [GeneralTree For Abp vNext](https://github.com/maliming/Owl.GeneralTree) -- Abp GeneralTree for vNext
 * [sharp-abp](https://github.com/cocosip/sharp-abp) -- Abp-vNext extension modules 
+* [Wei.VNext.BlobStoring.TencentCloudCos](https://github.com/thk-liu/Wei.VNext.BlobStoring.TencentCloudCos) -- abp vnext blob 腾讯云的支持
 
 
 ## Themes
