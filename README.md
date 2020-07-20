@@ -42,6 +42,7 @@ Get invloved with abp.io. Join the discussion at wechat.
 * [meowv blog](https://github.com/Meowv/Blog) -基于 abp vNext 和 .NET Core 开发博客项目 - 微信项目实战专辑
 * [在分布式架构中使用ABP, SignalR和RabbitMQ构建实时消息系统](https://volosoft.com/blog/RealTime-Messaging-Distributed-Architecture-Abp-SingalR-RabbitMQ) 
 * [如何在Angular模板中使用Attribute Directives来避免重复](https://volosoft.com/blog/attribute-directives-to-avoid-repetition-in-angular-templates)
+* [我和ABP vNext 的故事](https://www.cnblogs.com/shanyou/p/13337713.html) 
  
 ## Videos
 * [ABP_vNext_开发实战 01](https://www.bilibili.com/video/BV18f4y1S7Bt) -- ABP_vNext_开发实战系列视频
