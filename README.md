@@ -55,6 +55,7 @@ Get invloved with abp.io. Join the discussion at wechat.
 * [GeneralTree For Abp vNext](https://github.com/maliming/Owl.GeneralTree) -- Abp GeneralTree for vNext
 * [sharp-abp](https://github.com/cocosip/sharp-abp) -- Abp-vNext extension modules 
 * [Wei.VNext.BlobStoring.TencentCloudCos](https://github.com/thk-liu/Wei.VNext.BlobStoring.TencentCloudCos) -- abp vnext blob 腾讯云的支持
+* [J3space.Abp.Extensions](https://github.com/taujiong/J3space.Abp.Extensions) -- 扩展 abp vnext 中 identity server 以及 account 模块
 
 
 ## Themes
@@ -67,7 +68,6 @@ Get invloved with abp.io. Join the discussion at wechat.
 * [abp.vnext.wide.world.importers](https://github.com/wjkhappy14/abp.vnext.wide.world.importers) - ABP VNEXT for MS SqlServer2016 Demo DB WideWorldImporters
 * [Abp.VNext.Hello](https://github.com/wjkhappy14/Abp.VNext.Hello) - 
 Abp.VNext.Hello 数据库使用的是SQLite 拉取代码，然后就可以跑起来
-* [J3Space.Jarvis](https://github.com/taujiong/J3Space.Jarvis) - 基于Abp Vnext的个人管理系统 
 * [SoMall](https://github.com/jerrytang67/SoMall)- 社交电商商城开源项目
 * [abp-vnext-sqlite](https://github.com/weidongnian/abp-vnext-sqlite) -- 基于sqlite的abp vnext的dotnet core 3.1 程序，不用安装数据库，就可以运行
 * [ABP-MicroService](https://github.com/WilliamXu96/ABP-MicroService) -- 一个基于ABP vNext微服务架构、vue-element-admin的后台管理系统，适用于大型分布式业务系统、企业后台等
