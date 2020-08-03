@@ -49,6 +49,8 @@ Get invloved with abp.io. Join the discussion at wechat.
 * [ABP.VNext.Hello](https://www.bilibili.com/video/BV1j541147Tn?from=search&seid=4316248443868681793) -- ABP.VNext.Hello
 * [ABP-vNext Debug step by step -1](https://www.bilibili.com/video/BV1Fa4y1v7CW?from=search&seid=4316248443868681793)-- abp vnext 源码调试记录整个代码核心执行过程，方便自己加深理解，在开发过程中灵活运用
 * [跟Jesse一起学abp](https://appsqSYIqlK5791.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoiMyIsInJlc291cmNlX3R5cGUiOiI2IiwicmVzb3VyY2VfaWQiOiIiLCJwcm9kdWN0X2lkIjoicF81ZjAzM2UwYmU0YjBiNzQyMmM2ODM0ZTciLCJhcHBfaWQiOiJhcHBzcVNZSXFsSzU3OTEiLCJzaGFyZV91c2VyX2lkIjoidV81ZWVlZWYzYWFlZWQ0X1RsM2YxYk5DelkiLCJzaGFyZV90eXBlIjo1LCJzY2VuZSI6Ilx1OTA4MFx1OGJmN1x1OTRmZVx1NjNhNSJ9) -- 享受abp快、稳、狠带来的全新开发体验
+* [Web Application Development Tutorial with ASP.NET Core MVC & EF Core](https://github.com/hikalkan/courses/)--ABP Framework - Web Application Development Tutorial with ASP.NET Core MVC & EF Core
+
 
 ## Modules
 * [Blogging](https://github.com/abpframework/abp/tree/dev/modules/blogging).- Used to create fancy blogs. ABP's own blog already using this module
@@ -56,7 +58,6 @@ Get invloved with abp.io. Join the discussion at wechat.
 * [sharp-abp](https://github.com/cocosip/sharp-abp) -- Abp-vNext extension modules 
 * [Wei.VNext.BlobStoring.TencentCloudCos](https://github.com/thk-liu/Wei.VNext.BlobStoring.TencentCloudCos) -- abp vnext blob 腾讯云的支持
 * [J3space.Abp.Extensions](https://github.com/taujiong/J3space.Abp.Extensions) -- 扩展 abp vnext 中 identity server 以及 account 模块
-* [Web Application Development Tutorial with ASP.NET Core MVC & EF Core](https://github.com/hikalkan/courses/)--ABP Framework - Web Application Development Tutorial with ASP.NET Core MVC & EF Core
 
 
 ## Themes
