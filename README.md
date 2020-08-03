@@ -56,6 +56,7 @@ Get invloved with abp.io. Join the discussion at wechat.
 * [sharp-abp](https://github.com/cocosip/sharp-abp) -- Abp-vNext extension modules 
 * [Wei.VNext.BlobStoring.TencentCloudCos](https://github.com/thk-liu/Wei.VNext.BlobStoring.TencentCloudCos) -- abp vnext blob 腾讯云的支持
 * [J3space.Abp.Extensions](https://github.com/taujiong/J3space.Abp.Extensions) -- 扩展 abp vnext 中 identity server 以及 account 模块
+* [Web Application Development Tutorial with ASP.NET Core MVC & EF Core](https://github.com/hikalkan/courses/)--ABP Framework - Web Application Development Tutorial with ASP.NET Core MVC & EF Core
 
 
 ## Themes
