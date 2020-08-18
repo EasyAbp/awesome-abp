@@ -78,6 +78,7 @@ Abp.VNext.Hello 数据库使用的是SQLite 拉取代码，然后就可以跑起
 * [Abp vNext MicroserviceDemo](https://github.com/heshengli/MicroserviceDemo-master) -- Abp vNext MicroserviceDemo基于Nuget包依赖,调试完成，独立项目 
 * [MicroService.ApiGateway](https://github.com/colinin/MicroService.ApiGateway) -- 自用 Ocelot + Abp 图形界面管理 带有一个定制的Ocelot网关
 * [ABP-HelpDesk](https://github.com/seanalford/ABP-HelpDesk) -- How to build a Help Desk application using ABP.io Suite 
+* [一个ABP集成AMIS的演示程序](https://github.com/wakuflair/AbpXAmis) --在ABP中集成AMIS, 创建了这个演示应用程序, 看看两个优秀的框架的结合能否迸发出更强大的力量
 
 ## Tools
 * [AbpHelper.GUI](https://github.com/EasyAbp/AbpHelper.GUI). - AbpHelper is a GUI tool that help you with developing Abp vNext applications.
