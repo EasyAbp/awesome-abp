@@ -81,8 +81,8 @@ Abp.VNext.Hello 数据库使用的是SQLite 拉取代码，然后就可以跑起
 * [一个ABP集成AMIS的演示程序](https://github.com/wakuflair/AbpXAmis) --在ABP中集成AMIS, 创建了这个演示应用程序, 看看两个优秀的框架的结合能否迸发出更强大的力量
 
 ## Tools
-* [AbpHelper.GUI](https://github.com/EasyAbp/AbpHelper.GUI). - AbpHelper is a GUI tool that help you with developing Abp vNext applications.
-* [AbpHelper.CLI](https://github.com/EasyAbp/AbpHelper.CLI)  - AbpHelper is a CLI tool that help you with developing Abp vNext applications.
+* [AbpHelper.GUI](https://github.com/EasyAbp/AbpHelper.GUI). - Providing code generation and more features to help you develop applications and modules with the ABP framework.
+* [AbpHelper.CLI](https://github.com/EasyAbp/AbpHelper.CLI)  - Providing code generation and more features to help you develop applications and modules with the ABP framework.
 
 ## Podcasts
 
