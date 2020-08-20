@@ -1,6 +1,5 @@
 # awesome-abp
-
- > A collection of awesomene abp.io resources. 
+A collection of awesomene abp.io resources. 
  
 ## Contents
   - [Introduction](#introduction)
@@ -19,6 +18,7 @@
   - [Questions](#questions)
 
 ## Introduction
+
 ### What is abp.io
 abp.io is a modular application framework built on top of .net core. More information on the [official abp website](https://abp.io).
 
@@ -87,14 +87,11 @@ Abp.VNext.Hello 数据库使用的是SQLite 拉取代码，然后就可以跑起
 ## Podcasts
 
 
-## Contributions 
-Contributions from the community are always welcome! Please take a look at the [contribution guidelines](https://github.com/EasyAbp/awesome-abp/blob/master/CONTRIBUTING.md) pages first. Thanks to all [contributors](https://github.com/EasyAbp/awesome-abp/graphs/contributors), you're awesome and wouldn't be possible without you!
+## Contributions
+Contributions from the community are always welcome! Please take a look at the [contribution guidelines](/docs/CONTRIBUTING.md) pages first. Thanks to all [contributors](https://github.com/EasyAbp/awesome-abp/graphs/contributors), you're awesome and wouldn't be possible without you!
 
 ## Questions
 Feel free to open a new issue if you have any questions regarding abp.io.
 
-# Stargazers over time
+## Stargazers over time
 [![Stargazers over time](https://starcharts.herokuapp.com/abpframework/abp.svg)](https://starcharts.herokuapp.com/abpframework/abp)
-
-
-
