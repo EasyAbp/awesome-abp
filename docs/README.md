@@ -83,6 +83,7 @@ Abp.VNext.Hello 数据库使用的是SQLite 拉取代码，然后就可以跑起
 ## Tools
 * [AbpHelper.GUI](https://github.com/EasyAbp/AbpHelper.GUI). - Providing code generation and more features to help you develop applications and modules with the ABP framework.
 * [AbpHelper.CLI](https://github.com/EasyAbp/AbpHelper.CLI)  - Providing code generation and more features to help you develop applications and modules with the ABP framework.
+* [abp.DataCheckingTool](https://github.com/gishys/abp.DataCheckingTool) - abp vnext 数据检查工具
 
 ## Podcasts
 
