@@ -58,11 +58,16 @@ Get invloved with abp.io. Join the discussion at wechat.
 * [sharp-abp](https://github.com/cocosip/sharp-abp) -- Abp-vNext extension modules 
 * [Wei.VNext.BlobStoring.TencentCloudCos](https://github.com/thk-liu/Wei.VNext.BlobStoring.TencentCloudCos) -- abp vnext blob 腾讯云的支持
 * [J3space.Abp.Extensions](https://github.com/taujiong/J3space.Abp.Extensions) -- 扩展 abp vnext 中 identity server 以及 account 模块
+* [abpluz.abp](https://github.com/personball/abpluz.abp) -- This project is an extension for abp.io
 
 
 ## Themes
 * [Lsw.Abp.AspNetCore.Mvc.UI.Theme.Stisla](https://github.com/liangshiw/Lsw.Abp.AspNetCore.Mvc.UI.Theme.Stisla).- It uses bootstrap, so it is compatible with abp tag helper
 * [Abp.AspNetCore.Mvc.UI.Theme.AdminLTE](https://github.com/wakuflair/Abp.AspNetCore.Mvc.UI.Theme.AdminLTE) - An ABP theme module based on AdminLTE 
+* [AdminLTE.Abp.AspNetCore.Mvc.UI.Theme.Basic](https://github.com/guanhh/Abp-Theme-AspNetCore-AdminLTE) - An ABP theme module based on AdminLTE 
+
+## Blazor 
+* [Blazorise](https://github.com/stsrki/Blazorise) - Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Bulma, AntDesign and Material.
 
 ## Sample Projects
 * [abp-samples](https://github.com/abpframework/abp-samples) --Sample solutions built with the ABP Framework  
