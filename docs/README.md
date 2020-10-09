@@ -59,6 +59,7 @@ Get invloved with abp.io. Join the discussion at wechat.
 * [Wei.VNext.BlobStoring.TencentCloudCos](https://github.com/thk-liu/Wei.VNext.BlobStoring.TencentCloudCos) -- abp vnext blob 腾讯云的支持
 * [J3space.Abp.Extensions](https://github.com/taujiong/J3space.Abp.Extensions) -- 扩展 abp vnext 中 identity server 以及 account 模块
 * [abpluz.abp](https://github.com/personball/abpluz.abp) -- This project is an extension for abp.io
+* [Owl.Abp.CultureMap](https://github.com/maliming/Owl.Abp.CultureMap) -- help you map the language code to the specified language
 
 
 ## Themes
