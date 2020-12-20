@@ -69,6 +69,7 @@ Get invloved with abp.io. Join the discussion at wechat.
 * [Abp.AspNetCore.Mvc.UI.Theme.AdminLTE](https://github.com/wakuflair/Abp.AspNetCore.Mvc.UI.Theme.AdminLTE) - An ABP theme module based on AdminLTE 
 * [AdminLTE.Abp.AspNetCore.Mvc.UI.Theme.Basic](https://github.com/guanhh/Abp-Theme-AspNetCore-AdminLTE) - An ABP theme module based on AdminLTE 
 * [Abp.AspNetCore.Mvc.UI.Theme.LYear](https://github.com/EasyAbp/Abp.AspNetCore.Mvc.UI.Theme.LYear) - A simple ABP MVC UI theme.
+* [TF.Abp.Blazor.Layout](https://github.com/TFInfoTech/TF.Abp.Blazor.Layout) --  Blazor wasm front end layout solution for Abp VNext Blazor project
 
 ## Blazor 
 * [Blazorise](https://github.com/stsrki/Blazorise) - Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Bulma, AntDesign and Material.
