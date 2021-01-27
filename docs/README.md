@@ -62,6 +62,8 @@ Get invloved with abp.io. Join the discussion at wechat.
 * [abpluz.abp](https://github.com/personball/abpluz.abp) -- This project is an extension for abp.io
 * [Owl.Abp.CultureMap](https://github.com/maliming/Owl.Abp.CultureMap) -- help you map the language code to the specified language
 * [Bamboo ERP Modules](https://github.com/dinhduongha/bamboomodules) -- Bamboo ERP Modules 
+* [Wei.Abp.Notifications](https://github.com/thk-liu/Wei.Abp/tree/main/src/Wei.Abp.Notifications) -- Notifications Module
+* [Tubumu.Abp.Meeting](https://github.com/albyho/Tubumu.Abp.Meeting) -- 基于 Mediasoup 的 Abp vNext 视频会议模块
 
 
 
