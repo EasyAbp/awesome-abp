@@ -64,8 +64,7 @@ Get invloved with abp.io. Join the discussion at wechat.
 * [Bamboo ERP Modules](https://github.com/dinhduongha/bamboomodules) -- Bamboo ERP Modules 
 * [Wei.Abp.Notifications](https://github.com/thk-liu/Wei.Abp/tree/main/src/Wei.Abp.Notifications) -- Notifications Module
 * [Tubumu.Abp.Meeting](https://github.com/albyho/Tubumu.Abp.Meeting) -- 基于 Mediasoup 的 Abp vNext 视频会议模块
-
-
+* [Zo-Xapp](https://github.com/K-Artisan/Zo-Xapp) -- Abp + WPF + mahApps.Metro 项目模板
 
 ## Themes
 * [Lsw.Abp.AspNetCore.Mvc.UI.Theme.Stisla](https://github.com/liangshiw/Lsw.Abp.AspNetCore.Mvc.UI.Theme.Stisla).- It uses bootstrap, so it is compatible with abp tag helper
