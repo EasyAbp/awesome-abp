@@ -65,6 +65,7 @@ Get invloved with abp.io. Join the discussion at wechat.
 * [Wei.Abp.Notifications](https://github.com/thk-liu/Wei.Abp/tree/main/src/Wei.Abp.Notifications) -- Notifications Module
 * [Tubumu.Abp.Meeting](https://github.com/albyho/Tubumu.Abp.Meeting) -- 基于 Mediasoup 的 Abp vNext 视频会议模块
 * [Zo-Xapp](https://github.com/K-Artisan/Zo-Xapp) -- Abp + WPF + mahApps.Metro 项目模板
+* [EasyAbp.Abp.EventBus.Dapr](https://github.com/geffzhang/EasyAbp.Abp.EventBus.Dapr) -- Abp 以Dapr 作为EventBus
 
 ## Themes
 * [Lsw.Abp.AspNetCore.Mvc.UI.Theme.Stisla](https://github.com/liangshiw/Lsw.Abp.AspNetCore.Mvc.UI.Theme.Stisla).- It uses bootstrap, so it is compatible with abp tag helper
@@ -92,6 +93,7 @@ Abp.VNext.Hello 数据库使用的是SQLite 拉取代码，然后就可以跑起
 * [ABP-HelpDesk](https://github.com/seanalford/ABP-HelpDesk) -- How to build a Help Desk application using ABP.io Suite 
 * [一个ABP集成AMIS的演示程序](https://github.com/wakuflair/AbpXAmis) --在ABP中集成AMIS, 创建了这个演示应用程序, 看看两个优秀的框架的结合能否迸发出更强大的力量
 * [AbpToExcelRepo](https://github.com/bartvanhoey/AbpToExcelRepo) --How to export Excel files from an ABP Blazor application
+* [Jh.Abp.QuickComponents](https://github.com/CaiJinHao/Jh.Abp.QuickComponents)-- Abp webapi项目需要使用的基础组件。Swagger、MiniProfiler、IdentityServer. 提供AccessToken自动验证控制器
 
 ## Tools
 * [AbpHelper.GUI](https://github.com/EasyAbp/AbpHelper.GUI). - Providing code generation and more features to help you develop applications and modules with the ABP framework.
