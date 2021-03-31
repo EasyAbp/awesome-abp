@@ -95,6 +95,7 @@ Abp.VNext.Hello 数据库使用的是SQLite 拉取代码，然后就可以跑起
 * [ABP-HelpDesk](https://github.com/seanalford/ABP-HelpDesk) -- How to build a Help Desk application using ABP.io Suite 
 * [一个ABP集成AMIS的演示程序](https://github.com/wakuflair/AbpXAmis) --在ABP中集成AMIS, 创建了这个演示应用程序, 看看两个优秀的框架的结合能否迸发出更强大的力量
 * [AbpToExcelRepo](https://github.com/bartvanhoey/AbpToExcelRepo) --How to export Excel files from an ABP Blazor application
+* [abp-vnext-pro](https://github.com/WangJunZzz/abp-vnext-pro) -- Abp Vnext Pro 的 Vue 实现版本
 * [Jh.Abp.QuickComponents](https://github.com/CaiJinHao/Jh.Abp.QuickComponents)-- Abp webapi项目需要使用的基础组件。Swagger、MiniProfiler、IdentityServer. 提供AccessToken自动验证控制器
 
 ## Tools
