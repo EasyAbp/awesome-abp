@@ -95,13 +95,16 @@ Abp.VNext.Hello 数据库使用的是SQLite 拉取代码，然后就可以跑起
 * [ABP-HelpDesk](https://github.com/seanalford/ABP-HelpDesk) -- How to build a Help Desk application using ABP.io Suite 
 * [一个ABP集成AMIS的演示程序](https://github.com/wakuflair/AbpXAmis) --在ABP中集成AMIS, 创建了这个演示应用程序, 看看两个优秀的框架的结合能否迸发出更强大的力量
 * [AbpToExcelRepo](https://github.com/bartvanhoey/AbpToExcelRepo) --How to export Excel files from an ABP Blazor application
-* [abp-vnext-pro](https://github.com/WangJunZzz/abp-vnext-pro) -- Abp Vnext Pro 的 Vue 实现版本
+* [abp-vnext-pro](https://github.com/WangJunZzz/abp-vnext-pro) -- Abp Vnext Pro 的 Vue 3 实现版本
 * [Jh.Abp.QuickComponents](https://github.com/CaiJinHao/Jh.Abp.QuickComponents)-- Abp webapi项目需要使用的基础组件。Swagger、MiniProfiler、IdentityServer. 提供AccessToken自动验证控制器
+* [lazy-abp](https://github.com/lazyabp/lazy-abp)-- 一个包含了身份服务，用户管理，日志管理，消息管理，媒体管理等基本管理功能的abp vnext开发模块
 
 ## Tools
 * [AbpHelper.GUI](https://github.com/EasyAbp/AbpHelper.GUI). - Providing code generation and more features to help you develop applications and modules with the ABP framework.
 * [AbpHelper.CLI](https://github.com/EasyAbp/AbpHelper.CLI)  - Providing code generation and more features to help you develop applications and modules with the ABP framework.
 * [abp.DataCheckingTool](https://github.com/gishys/abp.DataCheckingTool) - abp vnext 数据检查工具
+* [Hx.Workflow](https://github.com/gishys/Hx.Workflow)-- abp vnext workflow core
+* [abp-vnext-pro-gui](https://github.com/WangJunZzz/abp-vnext-pro-gui) --Abp-Vnext-Pro代码生成器
 
 ## Podcasts
 
