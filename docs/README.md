@@ -1,4 +1,7 @@
 # awesome-abp
+
+[![Discord online](https://badgen.net/discord/online-members/S6QaezrCRq?label=Discord)](https://discord.gg/S6QaezrCRq)
+
 A collection of awesomene abp.io resources. 
  
 ## Contents
