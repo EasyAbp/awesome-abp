@@ -71,6 +71,7 @@ Get invloved with abp.io. Join the discussion at wechat.
 * [EasyAbp.Abp.EventBus.Dapr](https://github.com/geffzhang/EasyAbp.Abp.EventBus.Dapr) -- Abp 以Dapr 作为EventBus
 * [Abp.Captcha](https://github.com/git102347501/Abp.Captcha) -- Man machine verification module based on ABP vNext
 * [volo.abp.freesql](https://github.com/LostAsk/volo.abp.freesql) -- 引入Volo.Abp.FreeSql 作为扩展模块,集成到Abp.VNext中
+* [OpenIddict Module](https://github.com/JadynWong/Abp.OpenIddict) -- OpenIddict Module 集成到 Abp.vNext
 
 ## Themes
 * [Lsw.Abp.AspNetCore.Mvc.UI.Theme.Stisla](https://github.com/liangshiw/Lsw.Abp.AspNetCore.Mvc.UI.Theme.Stisla).- It uses bootstrap, so it is compatible with abp tag helper
