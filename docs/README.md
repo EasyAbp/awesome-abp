@@ -1,4 +1,7 @@
 # awesome-abp
+
+[![Discord online](https://badgen.net/discord/online-members/S6QaezrCRq?label=Discord)](https://discord.gg/S6QaezrCRq)
+
 A collection of awesomene abp.io resources. 
  
 ## Contents
@@ -43,6 +46,7 @@ Get invloved with abp.io. Join the discussion at wechat.
 * [在分布式架构中使用ABP, SignalR和RabbitMQ构建实时消息系统](https://volosoft.com/blog/RealTime-Messaging-Distributed-Architecture-Abp-SingalR-RabbitMQ) 
 * [如何在Angular模板中使用Attribute Directives来避免重复](https://volosoft.com/blog/attribute-directives-to-avoid-repetition-in-angular-templates)
 * [我和ABP vNext 的故事](https://www.cnblogs.com/shanyou/p/13337713.html) 
+* [项目实战 Artizan.Zero 开始](https://github.com/K-Artisan/Abp-vNext-Course/blob/main/docs/Abp-vNext%20Course.md)
  
 ## Videos
 * [ABP_vNext_开发实战 01](https://www.bilibili.com/video/BV18f4y1S7Bt) -- ABP_vNext_开发实战系列视频
@@ -61,8 +65,13 @@ Get invloved with abp.io. Join the discussion at wechat.
 * [abpluz.abp](https://github.com/personball/abpluz.abp) -- This project is an extension for abp.io
 * [Owl.Abp.CultureMap](https://github.com/maliming/Owl.Abp.CultureMap) -- help you map the language code to the specified language
 * [Bamboo ERP Modules](https://github.com/dinhduongha/bamboomodules) -- Bamboo ERP Modules 
-
-
+* [Wei.Abp.Notifications](https://github.com/thk-liu/Wei.Abp/tree/main/src/Wei.Abp.Notifications) -- Notifications Module
+* [Tubumu.Abp.Meeting](https://github.com/albyho/Tubumu.Abp.Meeting) -- 基于 Mediasoup 的 Abp vNext 视频会议模块
+* [Zo-Xapp](https://github.com/K-Artisan/Zo-Xapp) -- Abp + WPF + mahApps.Metro 项目模板
+* [EasyAbp.Abp.EventBus.Dapr](https://github.com/geffzhang/EasyAbp.Abp.EventBus.Dapr) -- Abp 以Dapr 作为EventBus
+* [Abp.Captcha](https://github.com/git102347501/Abp.Captcha) -- Man machine verification module based on ABP vNext
+* [volo.abp.freesql](https://github.com/LostAsk/volo.abp.freesql) -- 引入Volo.Abp.FreeSql 作为扩展模块,集成到Abp.VNext中
+* [OpenIddict Module](https://github.com/JadynWong/Abp.OpenIddict) -- OpenIddict Module 集成到 Abp.vNext
 
 ## Themes
 * [Lsw.Abp.AspNetCore.Mvc.UI.Theme.Stisla](https://github.com/liangshiw/Lsw.Abp.AspNetCore.Mvc.UI.Theme.Stisla).- It uses bootstrap, so it is compatible with abp tag helper
@@ -90,11 +99,16 @@ Abp.VNext.Hello 数据库使用的是SQLite 拉取代码，然后就可以跑起
 * [ABP-HelpDesk](https://github.com/seanalford/ABP-HelpDesk) -- How to build a Help Desk application using ABP.io Suite 
 * [一个ABP集成AMIS的演示程序](https://github.com/wakuflair/AbpXAmis) --在ABP中集成AMIS, 创建了这个演示应用程序, 看看两个优秀的框架的结合能否迸发出更强大的力量
 * [AbpToExcelRepo](https://github.com/bartvanhoey/AbpToExcelRepo) --How to export Excel files from an ABP Blazor application
+* [abp-vnext-pro](https://github.com/WangJunZzz/abp-vnext-pro) -- Abp Vnext Pro 的 Vue 3 实现版本
+* [Jh.Abp.QuickComponents](https://github.com/CaiJinHao/Jh.Abp.QuickComponents)-- Abp webapi项目需要使用的基础组件。Swagger、MiniProfiler、IdentityServer. 提供AccessToken自动验证控制器
+* [lazy-abp](https://github.com/lazyabp/lazy-abp)-- 一个包含了身份服务，用户管理，日志管理，消息管理，媒体管理等基本管理功能的abp vnext开发模块
 
 ## Tools
 * [AbpHelper.GUI](https://github.com/EasyAbp/AbpHelper.GUI). - Providing code generation and more features to help you develop applications and modules with the ABP framework.
 * [AbpHelper.CLI](https://github.com/EasyAbp/AbpHelper.CLI)  - Providing code generation and more features to help you develop applications and modules with the ABP framework.
 * [abp.DataCheckingTool](https://github.com/gishys/abp.DataCheckingTool) - abp vnext 数据检查工具
+* [Hx.Workflow](https://github.com/gishys/Hx.Workflow)-- abp vnext workflow core
+* [abp-vnext-pro-gui](https://github.com/WangJunZzz/abp-vnext-pro-gui) --Abp-Vnext-Pro代码生成器
 
 ## Podcasts
 
