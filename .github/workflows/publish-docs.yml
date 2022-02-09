@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - master
+      - main
 jobs:
   publish:
     runs-on: ubuntu-latest
@@ -18,7 +19,7 @@ jobs:
         with:
           find: \]\((/docs/)
           replace: "](/guide/${{ github.event.repository.name }}/"
-          include: docs/
+          include: docs/**.md
 
       - name: Pull repo and change files
         id: change
