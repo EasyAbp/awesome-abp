@@ -122,4 +122,4 @@ Contributions from the community are always welcome! Please take a look at the [
 Feel free to open a new issue if you have any questions regarding abp.io. 
 
 ## Stargazers over time
-[![Stargazers over time](https://starcharts.cc/abpframework/abp.svg)](https://starcharts.cc/abpframework/abp)
+[![Stargazers over time](https://starchart.cc/abpframework/abp.svg)](https://starchart.cc/abpframework/abp)
