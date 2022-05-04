@@ -84,6 +84,7 @@ Get invloved with abp.io. Join the discussion at wechat.
 
 ## Blazor 
 * [Blazorise](https://github.com/stsrki/Blazorise) - Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Bulma, AntDesign and Material.
+* [MudBlazor in ABP Blazor WebAssembly](https://github.com/yellow-dragon-cloud/AbpMudBlazorFinal) - [Material Design](https://material.io/) with [MudBlazor](https://www.mudblazor.com/) components in ABP Blazor WASM
 
 ## Sample Projects
 * [abp-samples](https://github.com/abpframework/abp-samples) --Sample solutions built with the ABP Framework  
