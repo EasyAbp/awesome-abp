@@ -106,6 +106,7 @@ Abp.VNext.Hello 数据库使用的是SQLite 拉取代码，然后就可以跑起
 * [abp-vnext-pro](https://github.com/WangJunZzz/abp-vnext-pro) -- Abp Vnext Pro 的 Vue 3 实现版本
 * [Jh.Abp.QuickComponents](https://github.com/CaiJinHao/Jh.Abp.QuickComponents)-- Abp webapi项目需要使用的基础组件。Swagger、MiniProfiler、IdentityServer. 提供AccessToken自动验证控制器
 * [lazy-abp](https://github.com/lazyabp/lazy-abp)-- 一个包含了身份服务，用户管理，日志管理，消息管理，媒体管理等基本管理功能的abp vnext开发模块
+* [IOTCS](https://github.com/IOT-CS/IOTCS) --工业智能网关，基于.net core3.1的跨平台物联网网关。
 
 ## Tools
 * [AbpHelper.GUI](https://github.com/EasyAbp/AbpHelper.GUI). - Providing code generation and more features to help you develop applications and modules with the ABP framework.
