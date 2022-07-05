@@ -107,6 +107,7 @@ Abp.VNext.Hello 数据库使用的是SQLite 拉取代码，然后就可以跑起
 * [Jh.Abp.QuickComponents](https://github.com/CaiJinHao/Jh.Abp.QuickComponents)-- Abp webapi项目需要使用的基础组件。Swagger、MiniProfiler、IdentityServer. 提供AccessToken自动验证控制器
 * [lazy-abp](https://github.com/lazyabp/lazy-abp)-- 一个包含了身份服务，用户管理，日志管理，消息管理，媒体管理等基本管理功能的abp vnext开发模块
 * [IOTCS](https://github.com/IOT-CS/IOTCS) --工业智能网关，基于.net core3.1的跨平台物联网网关。
+* [paas-pioneer](https://github.com/xiaolei000129/Paas.Pioneer) -- 基于 .Net 6/ABP/Vue 多租户中后台前端解决方案，提供更多通用性业务模块，让开发者更加专注于业务。 基于.NET 6、ABP 5实现的后台解决方案，模块插件化，前后端分离，支持分布式部署，跨平台运行。 前端基于element实现了AdminCore管理系统。
 
 ## Tools
 * [AbpHelper.GUI](https://github.com/EasyAbp/AbpHelper.GUI). - Providing code generation and more features to help you develop applications and modules with the ABP framework.
