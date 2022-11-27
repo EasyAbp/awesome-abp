@@ -74,6 +74,7 @@ Get invloved with abp.io. Join the discussion at wechat.
 * [OpenIddict Module](https://github.com/JadynWong/Abp.OpenIddict) -- OpenIddict Module 集成到 Abp.vNext
 * [abp-next-admin/aspnet-core/modules/dapr/](https://github.com/colinin/abp-next-admin/tree/master/aspnet-core/modules/dapr)--Dapr.Actors 集成
 * [Elsa module for abp with new designer](https://github.com/jxnkwlp/abp-elsa-module) -- Elsa 集成
+* [Abp.Crypto](Abp.Cryptohttps://github.com/Guili95/Abp.Crypto) -- Abp 加密模块，包含国标SM4加密；可以单独使用，也可以配合EntityFrameworkCore对数据库字段加密
 
 ## Themes
 * [Lsw.Abp.AspNetCore.Mvc.UI.Theme.Stisla](https://github.com/liangshiw/Lsw.Abp.AspNetCore.Mvc.UI.Theme.Stisla).- It uses bootstrap, so it is compatible with abp tag helper
