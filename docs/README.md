@@ -115,6 +115,7 @@ Abp.VNext.Hello 数据库使用的是SQLite 拉取代码，然后就可以跑起
 * [DataPermission](https://github.com/zhaofenglee/DataPermission) abp datapermission permission module
 * [ONEAdmin](https://github.com/sososu/ONEAdmin)基于Abp vnext框架开发的微服务多租户项目
 * [abp-vnext-pro](https://github.com/WangJunZzz/abp-vnext-pro)Abp Vnext 的 Vue 实现版本
+* [dignite-abp](https://github.com/dignite-projects/dignite-abp) Adds notification system, dynamic forms module, file manager, Pure Theme, and other enhancements.
 
 ## Tools
 * [AbpHelper.GUI](https://github.com/EasyAbp/AbpHelper.GUI). - Providing code generation and more features to help you develop applications and modules with the ABP framework.
