@@ -124,6 +124,7 @@ Abp.VNext.Hello 数据库使用的是SQLite 拉取代码，然后就可以跑起
 * [abp.DataCheckingTool](https://github.com/gishys/abp.DataCheckingTool) - abp vnext 数据检查工具
 * [Hx.Workflow](https://github.com/gishys/Hx.Workflow)-- abp vnext workflow core
 * [abp-vnext-pro-gui](https://github.com/WangJunZzz/abp-vnext-pro-gui) --Abp-Vnext-Pro代码生成器
+* [AbpDevTools](https://github.com/enisn/AbpDevTools) - A set of tools to make development with ABP easier.
 
 ## Podcasts
 
